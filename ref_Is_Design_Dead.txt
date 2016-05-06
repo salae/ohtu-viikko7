@@ -1,0 +1,9 @@
+﻿Referaatti: Is Design Dead?
+Ohjelmistonsuunnittelu ei ole menettänyt merkitystään, vaikka XP:hen tutustuessa voi siltä tuntuakin. Karkeasti ajatellen on kaksi tapaa suunnitella: etukäteen tai koodauksen kanssa yhtä aikaa kehittyvästi. Tarkassa etukäteissuunnitellussa on vikansa, mutta myös paljon hyvää,  varsinkin jos vertaillaan vain ”code and fix”-menetelmään eli lähinnä suunnitelman puuttumiseen. Fiksumminkin voi kehittyvää suunnittelemista harjoittaa.
+
+Muutosten aiheuttamat kustannukset ovat oleellisia. Yleisen viisauden mukaan, mitä myöhemmin muutoksia tehdään, sitä enemmän ne maksavat. XP:ssä yritetään muuttaa tämä ja saada virheiden korjaaminen helpommaksi ja halvemmaksi toteuttaa. Se vaatii testaamista, jatkuvaa integraatiota ja refaktorointia onnistuakseen.
+
+Tärkeää on myös yksinkertainen suunnittelu periaatteilla: ”tee yksinkertaisin asia mikä toimii” ja ”et tule tarvitsemaan sitä”. Järki tässä on esim. siinä, että muutoksia on helpompi tehdä yksinkertaiseen kuin monimutkaiseen systeemin (eli sellaiseen mihin on tehty etukäteen kaikkea mitä luullaan tarvittavan myöhemmin). Yksinkertaisuuden kriteereihin kuuluvat: testien läpäiseminen, ei saman koodin toistoa, intention selkeys ja mahdollisimman vähän luokkia tai metodeja.
+
+Ei kannata hylätä kokonaan suunnittelumalleja, arkkitehtuuria ja erilaisia kaavioita. Tärkeää on osata nekin ja erityisesti se, milloin niitä kannattaa käyttää. Kommunikaatio on tärkeää.  Suunnittelupäätöksiä siirretään alemmille portaille, mutta on hyvä, että joku pitää kokonaisuuttakin silmällä ja merkkejä siitä, onko suunnittelussa ongelmia.
+
