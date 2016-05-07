@@ -1,0 +1,10 @@
+﻿Referaatti: Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään
+
+Tietokonelaitteistojen kehittyessä kasvoi tarve järjestelmälliselle ohjelmien tuotannolle. Erilaisten ohjelmointiongelmien myötä päädyttiin ohjelmistokriisiin, mitä termiä käytettiin vuonna 1968, samoin kuin termiä Software Engineering ensimmäisen kerran virallisessa yhteydessä.
+
+Perinteiset ohjelmistotuotantomenetelmät perustuivat lineaarisuuteen ja niitä kutsutaan kattotermillä ’vesiputousmalli’. Malli muistuttaa insinööritieteiden suunnitteluprosessia ja työvaiheet seuraavat toisiaan menemättä päällekkäin. Dokumentaatio on laajaa. Ongelmia tuottaa esim. vaatimusten muuttuminen ohjelmaa toteutettaessa ja korjausten tekemisen kalleus.
+
+Ongelmiin vastattiin uusilla inkrementaalisilla ja iteratiivisilla ohjelmistotuotantomenetelmillä, joiden suosio nousi 1990-l, vaikka niitä käytettiin aikaisemminkin. Näissä ohjelmiston kehittämiseen käytetään useampia kierroksia. Tällaisia ovat esim. Spiraalimalli ja RUP.
+
+Ketterät menetelmät on 2000-luvun keskeisin trendi toistaiseksi ohjelmistotuotannossa. Tarkoituksena on mm. vastata nopeasti muutoksiin. Periaatteessa nämäkin ovat inkremaantaalisia ja iteratiivisia menetelmiä, painotukset vain vaihtelevat. Erityisen suosittu on Scrum.
+

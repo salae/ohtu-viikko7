@@ -1,0 +1,7 @@
+﻿Referaatti: Ryhmätyö ohjelmistokehityksessä
+
+Ryhmätyötä tarvitaan, koska kukaan yksilö harvoin osaa tehdä kaikkea hyvin, ja koska projektit ovat usein laajoja. Ketterissä menetelmissä ryhmätyön merkitys on suuri. XP:n keskeisiä käytänteitä on pariohjelmointi, jossa kaksi ihmistä työskentelee tiiviisti yhdessä. Tästä etuna on esim. jatkuva koodin katselmointi ja henkilöiden toisiltaan oppiminen. Kaikissa ketterissä menetelmissä korostuu kommunikoinnin tärkeys toisaalta tiimin jäsenten kesken, ja toisaalta asiakkaan kanssa. Scrumissa yhteistyön muodot on määritelty varsin tarkkaan.
+
+Ihmisten erilaiset luonteenpiirteet ja persoonallisuustyypit vaikuttavat ryhmätyötaitoihin. Moninaisuus on yleensä hyväksi tässäkin ja tuo projektiin erilaisia näkökulmia. Eräs tapa mitata henkilön persoonallisuutta on käyttää Myers-Briggsin tyyppi-indikaattoria. Erilaiset ihmiset soveltuvat erilaisiin tehtäviin.
+
+Hyvältä ohjelmistokehittäjältä toivotaan nykyään teknisen osaamisen lisäksi joustavuutta, hyviä kommunikointitaitoja, älykkyyttä ja mukavuutta. Tietojenkäsittelytieteen opiskelijoiden ryhmätyö- ja kommunikointitaitoihin pitäisi panostaa enemmän, tähän on olemassa menetelmiä, mm. vuorovaikutteinen luokkahuone, projektioppiminen ja rocking the boat.
